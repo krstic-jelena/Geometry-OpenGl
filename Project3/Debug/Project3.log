@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\jelena\source\repos\project3\project3\main.cpp(32): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\jelena\source\repos\project3\project3\main.cpp(93): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(152): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(153): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(154): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(155): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(194): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(195): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(196): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(197): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(201): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(202): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(203): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\jelena\source\repos\project3\project3\main.cpp(204): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  Project3.vcxproj -> C:\Users\Jelena\source\repos\Project3\Debug\Project3.exe
